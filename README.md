@@ -34,4 +34,4 @@ These are portfolio projects. Figures in them are project findings, not employer
 
 - Portfolio: [olajumokemedunoye.github.io](https://olajumokemedunoye.github.io)
 - LinkedIn: [olajumoke-medunoye](https://www.linkedin.com/in/olajumoke-medunoye)
-- Email: olajumokemedunoye@gmail.com
+- Email: medunoyeolajumoke@gmail.com

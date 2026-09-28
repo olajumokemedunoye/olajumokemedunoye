@@ -25,8 +25,8 @@ Power BI · DAX · SQL · PostgreSQL · Excel · Python
 |---|---|---|
 | [Workforce Planning & Headcount Forecasting](https://olajumokemedunoye.github.io/#case-studies) | How much headcount does a plan need, and where are the gaps? | SQL, Excel, Power BI |
 | [HR Attrition & Cost-of-Turnover Analysis](https://olajumokemedunoye.github.io/#case-studies) | What does attrition cost, and where does the cost concentrate? | SQL, Excel, Power BI |
-| [Recruitment Pipeline & Hiring Analytics](https://olajumokemedunoye.github.io/#case-studies) | Where do candidates drop out, and which stages slow hiring? | Excel, Power BI |
-| [HR Reporting Automation](https://olajumokemedunoye.github.io/#case-studies) | Can recurring HR reporting refresh instead of being rebuilt by hand? | Excel, Power BI |
+| [Recruitment Cost & Hiring Analytics](https://olajumokemedunoye.github.io/#case-studies) | What does external hiring cost compared with internal, and how much slower is it? | Excel, Power BI |
+| [HR Reporting Automation: Performance Dashboard](https://olajumokemedunoye.github.io/#case-studies) | How are performance, engagement and training tracking by quarter and department? | Power BI, DAX |
 
 These are portfolio projects. Figures in them are project findings, not employer results. Full write-ups are on the portfolio.
 

@@ -17,7 +17,7 @@ My background is HR (MSc Human Resource Management, Assoc CIPD, MHRAP). I work o
 
 ### Technical stack
 
-Power BI · DAX · SQL · PostgreSQL · Excel · Python
+Power BI · DAX · SQL · PostgreSQL · Excel · Python (pandas, scikit-learn)
 
 ### Featured work
 
@@ -27,8 +27,11 @@ Power BI · DAX · SQL · PostgreSQL · Excel · Python
 | [HR Attrition & Cost of Turnover](https://olajumokemedunoye.github.io/#case-studies) | Who is leaving, when in their tenure, and what does it cost? | Power BI, DAX |
 | [Recruitment Cost & Hiring Routes](https://olajumokemedunoye.github.io/#case-studies) | What does each hiring route cost, and what would more internal hiring save? | Power BI, DAX |
 | [HR Reporting Automation: Performance Dashboard](https://olajumokemedunoye.github.io/#case-studies) | How are performance, engagement and training tracking by quarter and department? | Power BI, DAX |
+| [UK Gender Pay Gap Analysis 2023–2025](https://olajumokemedunoye.github.io/projects/gender-pay-gap.html) | How does an employer's pay gap compare with its sector and size, and are gaps closing? | SQL, Python |
+| [UK Labour Market Briefing](https://olajumokemedunoye.github.io/projects/labour-market.html) | How has the UK labour market changed since 2022, and what should hiring plans do about it? | Python, ONS data |
+| [Attrition Risk Model](https://olajumokemedunoye.github.io/projects/attrition-risk-model.html) | Which factors predict attrition, and how accurate and fair is a model built on them? | Python, scikit-learn |
 
-These are portfolio projects. Figures in them are project findings, not employer results. Full write-ups are on the portfolio.
+These are portfolio projects. Figures in them are project findings, not employer results. The last three use public data (gov.uk, ONS) and the fictional IBM HR sample dataset. Full reports are on the portfolio.
 
 ### Links
 

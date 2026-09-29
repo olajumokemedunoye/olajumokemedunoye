@@ -25,7 +25,7 @@ Power BI · DAX · SQL · PostgreSQL · Excel · Python
 |---|---|---|
 | [Workforce Planning: Replacement Hiring & Attrition Scenarios](https://olajumokemedunoye.github.io/#case-studies) | How many roles will each department need to refill, and what changes if attrition falls? | Power BI, DAX |
 | [HR Attrition & Cost-of-Turnover Analysis](https://olajumokemedunoye.github.io/#case-studies) | What does attrition cost, and where does the cost concentrate? | SQL, Excel, Power BI |
-| [Recruitment Cost & Hiring Analytics](https://olajumokemedunoye.github.io/#case-studies) | What does external hiring cost compared with internal, and how much slower is it? | Excel, Power BI |
+| [Recruitment Cost & Hiring Routes](https://olajumokemedunoye.github.io/#case-studies) | What does each hiring route cost, and what would more internal hiring save? | Power BI, DAX |
 | [HR Reporting Automation: Performance Dashboard](https://olajumokemedunoye.github.io/#case-studies) | How are performance, engagement and training tracking by quarter and department? | Power BI, DAX |
 
 These are portfolio projects. Figures in them are project findings, not employer results. Full write-ups are on the portfolio.
